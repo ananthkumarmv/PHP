@@ -9,7 +9,7 @@
 
 <body>
 
-	<?php 
+	<?php
 
 	echo "<p>Data Processed</p>";
 
@@ -32,7 +32,6 @@
 	echo date('h:i:s:u a, l F jS Y e');
 
 	?>
-
 
 
 
